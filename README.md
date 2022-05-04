@@ -13,5 +13,6 @@ Contains About section, projects, contact info & resume link.
   
 
   ## Image Example
-![newportfol![react](https://user-images.githubusercontent.com/89046934/166608520-6c945882-447c-47a3-9fdb-18f2c13e184a.jpg)
-io](https://user-images.githubusercontent.com/89046934/155448373-7d1e63fa-32ba-463d-83e7-6ff0f1657239.jpg)
+![react](https://user-images.githubusercontent.com/89046934/166608592-01dce1cc-c43f-43aa-9338-672e3724bb26.jpg)
+
+
