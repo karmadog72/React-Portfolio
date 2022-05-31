@@ -1,5 +1,5 @@
 ## Danika Pearson React-Portfolio
-
+[https://lnkd.in/gk4ytZhb](https://karmadog72.github.io/React-Portfolio/)
 Contains About section, projects, contact info & resume link.
 
   # Table of Contents
