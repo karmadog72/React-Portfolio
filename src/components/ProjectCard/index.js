@@ -56,7 +56,7 @@ const ProjectCard = () => {
       caption: "Password Generator",
       github: "https://github.com/karmadog72/JavaScript-Password-Challenge-",
       deployment:
-        "https://github.com/karmadog72/JavaScript-Password-Challenge-",
+        "https://karmadog72.github.io/JavaScript-Password-Challenge-/",
     },
 
     {
