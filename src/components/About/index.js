@@ -20,13 +20,20 @@ const About = (props) => {
         </p>
         <p>LANGUAGES:</p>
         <ul className="stack-list">
-          <li>HTML5, CSS and JavaScript</li>
-          <li>MERN</li>
-          <li>SQL/NoSQL</li>
-          <li>Handlebars.JS</li>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+          <li>MongoDB</li>
+          <li>Node.js</li>
+          <li>React.js</li>
+          <li>Express.js</li>
+          <li>Sequelize</li>
+          <li>SQL</li>
+          <li>NoSQL</li>
+          <li>Handlebars.js</li>
           <li>Bootstrap</li>
           <li>Bulma</li>
-          <li>jQuery</li>
+          <li>Jquery</li>
           <li>Insomnia</li>
           <li>SPA</li>
           <li>PWA</li>
