@@ -62,9 +62,9 @@ const ProjectCard = () => {
     {
       name: "1st Portfolio",
       description: "My 1st ever web developer portfolio.",
-      caption: "1st Portfolio",
       stack: "HTML, CSS",
       role: "Developed entire application",
+      caption: "1st Portfolio",
       github: "https://github.com/karmadog72/portfolio-challenge-",
       deployment: "https://karmadog72.github.io/portfolio-challenge-/",
     },
